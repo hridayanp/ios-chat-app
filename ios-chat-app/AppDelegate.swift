@@ -1,13 +1,14 @@
 //
 //  AppDelegate.swift
-//  ios-chat-app
+//  Flash Chat iOS13
 //
-//  Created by Hridayan Phukan on 27/11/24.
+//  Created by Angela Yu on 21/10/2019.
+//  Copyright © 2019 Angela Yu. All rights reserved.
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
