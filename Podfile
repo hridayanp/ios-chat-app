@@ -10,5 +10,7 @@ target 'ios-chat-app' do
   
   pod 'FirebaseFirestore'
   
+  pod 'IQKeyboardManagerSwift', '~> 8.0'
+  
 
 end
