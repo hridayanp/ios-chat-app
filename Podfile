@@ -6,5 +6,9 @@ target 'ios-chat-app' do
   # Pods for ios-chat-app
   pod 'CLTypingLabel', '~> 0.4.0'
   
+  pod 'FirebaseAuth'
+  
+  pod 'FirebaseFirestore'
+  
 
 end
